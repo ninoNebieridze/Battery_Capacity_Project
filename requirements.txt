@@ -1,0 +1,7 @@
+numpy>=2.0
+pandas
+matplotlib
+scikit-learn
+torch
+tqdm
+jupyter
